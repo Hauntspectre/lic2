@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_cdata.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_default_balloon.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_folders.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_extended_data.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_default_balloon.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multiple_placemarks.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unsupported.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_inline_style.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_text_bubble.xml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_document_nest.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay_color.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_cdata.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_folder.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\drawable-xxhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_extended_data.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_info_window.xml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unknwown_folder.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multiple_placemarks.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_placemark.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_multigeometry.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_info_window.xml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_placemark.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay_color.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_folders.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_document_nest.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_text_bubble.xml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_webview.xml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\drawable-xxhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_inline_style.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_multigeometry.kml.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unknwown_folder.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_webview.xml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unsupported.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_folder.kml.flat",
+        "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\01da2c8cc2edf04e0e05d948ff0e7f3e\\res\\raw\\amu_basic_folder.kml"
+    }
+]
