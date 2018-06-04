@@ -23,6 +23,28 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\octavian\\Documents\\lic2\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.0.aar\\8c4d1f5f13ff0b27c1d44f1d5af081aa\\res\\values-b+sr+Latn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "292",
+                        "endColumns": "188",
+                        "endOffsets": "480"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "188",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {

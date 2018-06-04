@@ -83,6 +83,47 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\octavian\\Documents\\lic2\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\b44a2af1f9bc16a29d02451a0f0149f7\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,93,301,461",
+                        "endLines": "2,6,9,14",
+                        "endColumns": "37,12,12,12",
+                        "endOffsets": "88,296,456,708"
+                    },
+                    "to": {
+                        "startLines": "14,17,21,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1414,1687,1895,2055",
+                        "endLines": "14,20,23,28",
+                        "endColumns": "37,12,12,12",
+                        "endOffsets": "1447,1890,2050,2302"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\octavian\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.0.aar\\8c4d1f5f13ff0b27c1d44f1d5af081aa\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "1452,1520",
+                        "endColumns": "67,166",
+                        "endOffsets": "1515,1682"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\wow\\Android-GoogleDirectionLibrary-master\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
