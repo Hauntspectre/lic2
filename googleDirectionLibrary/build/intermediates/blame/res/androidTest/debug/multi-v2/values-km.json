@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\octavian.popa\\Documents\\lic3\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\octavian.popa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.0.aar\\16ee3645a48bcccb467611a1bf263e93\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "207",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "207",
+                        "endOffsets": "308"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "E:\\lic2\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
