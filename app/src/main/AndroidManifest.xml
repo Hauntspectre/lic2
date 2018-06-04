@@ -20,11 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".WaypointsDirectionActivity"
@@ -37,7 +33,12 @@
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyDiyKh9ya2s6T3AqOxQ-wWnipvpGivwlsQ" />
 
-        <activity android:name=".FirstActivity"></activity>
+        <activity android:name=".FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
